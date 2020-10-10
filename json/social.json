@@ -6,6 +6,12 @@
 
 	"nodes": [
 		{
+			"name": "iaseth",
+			"title": "Dribbble",
+			"url": "https://dribbble.com/iaseth",
+			"class": "dribbble"
+		},
+		{
 			"name": "iankurseth",
 			"title": "Facebook",
 			"url": "https://www.facebook.com/iankurseth",
@@ -18,10 +24,34 @@
 			"class": "github"
 		},
 		{
+			"name": "iaseth",
+			"title": "GitLab",
+			"url": "https://gitlab.com/iaseth",
+			"class": "gitlab"
+		},
+		{
+			"name": "ankurseth",
+			"title": "Goodreads",
+			"url": "https://www.goodreads.com/ankurseth",
+			"class": "goodreads"
+		},
+		{
 			"name": "iankurseth",
 			"title": "Instagram",
 			"url": "https://www.instagram.com/iankurseth/",
 			"class": "instagram"
+		},
+		{
+			"name": "iaseth",
+			"title": "Kaggle",
+			"url": "https://www.kaggle.com/iaseth",
+			"class": "kaggle"
+		},
+		{
+			"name": "iaseth",
+			"title": "Keybase",
+			"url": "https://keybase.io/iaseth",
+			"class": "keybase"
 		},
 		{
 			"name": "iaseth",
@@ -31,9 +61,33 @@
 		},
 		{
 			"name": "iaseth",
+			"title": "NPM",
+			"url": "https://www.npmjs.com/~iaseth",
+			"class": "npm"
+		},
+		{
+			"name": "iankurseth",
+			"title": "Pinterest",
+			"url": "https://in.pinterest.com/iankurseth/",
+			"class": "pinterest"
+		},
+		{
+			"name": "iaseth",
 			"title": "Quora",
 			"url": "https://www.quora.com/profile/iaseth",
 			"class": "quora"
+		},
+		{
+			"name": "iaseth",
+			"title": "Reddit",
+			"url": "https://www.reddit.com/user/iaseth",
+			"class": "reddit"
+		},
+		{
+			"name": "iaseth",
+			"title": "Tumblr",
+			"url": "https://iaseth.tumblr.com",
+			"class": "tumblr"
 		},
 		{
 			"name": "iankurseth",
