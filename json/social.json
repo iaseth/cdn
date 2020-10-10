@@ -1,7 +1,7 @@
 {
 	"sets": {
 		"four": ["facebook", "instagram", "linkedin", "twitter"],
-		"six": ["facebook", "github", "instagram", "linkedin", "twitter", "youtube"]
+		"six": ["facebook", "github", "instagram", "linkedin", "quora", "twitter"]
 	},
 
 	"nodes": [
