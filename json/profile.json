@@ -1,6 +1,24 @@
 {
 	"name": "Ankur Seth",
+	"fullname": "Ankur Shivashankar Seth",
+	"nicknames": [
+		"Igor"
+	],
+	"handles": [
+		"iankurseth",
+		"iaseth"
+	],
+
+	"email": "iankurseth@gmail.com",
+	"emails": [
+		"iankurseth@gmail.com"
+	],
+
 	"website": "https://ankurseth.in",
+	"websites": [
+		"https://ankurseth.in"
+	],
+
 	"repos": {
 		"good": [
 			"https://github.com/iaseth/cdn"
